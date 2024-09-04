@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "telegram_bot", "telegram_bot\telegram_bot.vcxproj", "{543ED4F0-6B31-45DB-8B71-8B823B6828CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543ED4F0-6B31-45DB-8B71-8B823B6828CD}.Debug|x64.ActiveCfg = Debug|x64
+		{543ED4F0-6B31-45DB-8B71-8B823B6828CD}.Debug|x64.Build.0 = Debug|x64
+		{543ED4F0-6B31-45DB-8B71-8B823B6828CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{543ED4F0-6B31-45DB-8B71-8B823B6828CD}.Debug|x86.Build.0 = Debug|Win32
+		{543ED4F0-6B31-45DB-8B71-8B823B6828CD}.Release|x64.ActiveCfg = Release|x64
+		{543ED4F0-6B31-45DB-8B71-8B823B6828CD}.Release|x64.Build.0 = Release|x64
+		{543ED4F0-6B31-45DB-8B71-8B823B6828CD}.Release|x86.ActiveCfg = Release|Win32
+		{543ED4F0-6B31-45DB-8B71-8B823B6828CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D52812E2-DFB7-473A-94D5-AD1B2F15ABFA}
+	EndGlobalSection
+EndGlobal
